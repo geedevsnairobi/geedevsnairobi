@@ -38,7 +38,7 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
 <tbody>
   <tr>
     <td class="tg-0pky">1. </td>
-    <td class="tg-0pky"> Get and display ONLY the successful deals over the two business years.</td>
+    <td class="tg-0pky"> Getting Started With Google Earth Engine.<img src="https://pbs.twimg.com/media/FtwO4ddWIAEpFos?format=jpg&name=900x900" alt="" width=""></td>
     <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Successful%20deals" target="_blank" rel="noopener noreferrer">Successful deals</a></td>
   </tr>
   <tr>
