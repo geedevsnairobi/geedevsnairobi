@@ -28,6 +28,7 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
 ### GEE Developer Group Community Learning Projects  
 
 <table class="tg">
+
 <thead>
   <tr>
     <th class="tg-c3ow"></th>
@@ -48,7 +49,7 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
   </tr>
   <tr>
     <td class="tg-0pky">3. </td>
-    <td class="tg-0pky">Select and display the deals which closed the year with a value more than 1000</td>
+       <td class="tg-0pky"> Land Use Land Cover Classification.<img src="https://user-images.githubusercontent.com/119797704/232471871-af8f7188-0be8-4277-9df4-566463cb1fe5.png" alt="" width=""></td>
     <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Deals%20more%20than%201000" target="_blank" rel="noopener noreferrer">Good deals</a></td>
   </tr>
   <tr>
