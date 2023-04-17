@@ -38,12 +38,12 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
 <tbody>
   <tr>
     <td class="tg-0pky">1. </td>
-    <td class="tg-0pky"> Getting Started With Google Earth Engine.<img src="https://pbs.twimg.com/media/FtwO4ddWIAEpFos?format=jpg&name=900x900" alt="" width=""></td>
+    <td class="tg-0pky"> Gentle Introduction to GEE.<img src="https://media.licdn.com/dms/image/D5622AQHrWtLeZ53rRA/feedshare-shrink_800/0/1681585514116?e=1684368000&v=beta&t=rYEvzp1s6Lo3d75YLd56jNXeY-eVAnTBWcFddA26JvA" alt="" width=""></td>
     <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Successful%20deals" target="_blank" rel="noopener noreferrer">Successful deals</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2. </td>
-    <td class="tg-0pky">Display the total number of deals Moses Frase made over the two financial years</td>
+   <td class="tg-0pky"> Getting Started With Google Earth Engine.<img src="https://pbs.twimg.com/media/FtwO4ddWIAEpFos?format=jpg&name=900x900" alt="" width=""></td>
     <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Moses'%20deals" target="_blank" rel="noopener noreferrer">Moses' deals</a></td>
   </tr>
   <tr>
