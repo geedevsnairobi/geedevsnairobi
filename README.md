@@ -16,7 +16,7 @@ We achieve our mission by organizing and participating in events like;
 4. GEE User Summits
 
 Our Training sessions, Completed projects, Expert Speaker Sessions are shared publicly on our digital channels:
-1. Geedevsnairobi-GitHub
+1. GitHub <a href="https://github.com/geedevsnairobi">GitHub</a> 
 2. Geedevsnairobi-Dev.to blog
 3. Geedevsnairobi-YouTube 
 4. LinkedIn page 
