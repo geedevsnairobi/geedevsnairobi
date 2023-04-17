@@ -18,10 +18,9 @@ We achieve our mission by organizing and participating in events like;
 Our Training sessions, Completed projects, Expert Speaker Sessions are shared publicly on our digital channels:
 1. <a href="https://github.com/geedevsnairobi">GitHub</a> 
 2. <a href="https://dev.to/geedevs-nairobi">DevTo</a> 
-3. Geedevsnairobi-YouTube 
-4. LinkedIn page 
-<a href="https://www.linkedin.com/company/gee-developers-nairobi/?viewAsMember=true">GEE Developers-Nairobi</a>
-5. Geedevsnairobi-Twitter page.
+3. <a href="https://www.youtube.com/@Geedevsnairobi/featured">YouTube</a>
+4. <a href="https://www.linkedin.com/company/gee-developers-nairobi/?viewAsMember=true">LinkedIn</a>
+5. <a href="https://twitter.com/GeeDevs">Twitter</a>
 6. Google group
 
 
