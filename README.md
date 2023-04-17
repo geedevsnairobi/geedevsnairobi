@@ -21,7 +21,7 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
 3. <a href="https://www.youtube.com/@Geedevsnairobi/featured">YouTube</a>
 4. <a href="https://www.linkedin.com/company/gee-developers-nairobi/?viewAsMember=true">LinkedIn</a>
 5. <a href="https://twitter.com/GeeDevs">Twitter</a>
-6. Google group
+6. <a href="https://groups.google.com/g/geedevelopersnairobi">Google group </a>
 
 
 
