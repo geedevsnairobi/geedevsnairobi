@@ -40,12 +40,12 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
   <tr>
     <td class="tg-0pky">1. </td>
     <td class="tg-0pky"> Gentle Introduction to GEE.<img src="https://media.licdn.com/dms/image/D5622AQHrWtLeZ53rRA/feedshare-shrink_800/0/1681585514116?e=1684368000&v=beta&t=rYEvzp1s6Lo3d75YLd56jNXeY-eVAnTBWcFddA26JvA" alt="" width=""></td>
-    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Successful%20deals" target="_blank" rel="noopener noreferrer">Successful deals</a></td>
+    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Successful%20deals" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2. </td>
    <td class="tg-0pky"> Getting Started With Google Earth Engine.<img src="https://pbs.twimg.com/media/FtwO4ddWIAEpFos?format=jpg&name=900x900" alt="" width=""></td>
-    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Moses'%20deals" target="_blank" rel="noopener noreferrer">Moses' deals</a></td>
+    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Moses'%20deals" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">3. </td>
@@ -54,25 +54,25 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
   </tr>
   <tr>
     <td class="tg-0pky">4.</td>
-    <td class="tg-0pky">Display the deals in Progress and the succesiful ones only</td>
-    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Promising%20deals" target="_blank" rel="noopener noreferrer">Promising deals</a></td>
+    <td class="tg-0pky">Display the deals in Progress and the succesifu</td>
+    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Promising%20deals" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">5.</td>
-    <td class="tg-0pky">Get from the Sales table only deals closing between 1000 and 2000</td>
-    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Competitive%20deals" target="_blank" rel="noopener noreferrer">Competitive deals</a></td>
+    <td class="tg-0pky">To be added</td>
+    <td class="tg-0pky"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Competitive%20deals" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Write a Query to display sales made by Darcel's team only </td>
-    <td class="tg-0lax"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Darce's%20team%20sales" target="_blank" rel="noopener noreferrer">Darcel's team sales</a></td>
+    <td class="tg-0lax"> </td>
+    <td class="tg-0lax"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Darce's%20team%20sales" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
-    <td class="tg-0lax">Help us determine the total count of the lost deals over the two business years</td>
-    <td class="tg-0lax"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Lost%20deals" target="_blank" rel="noopener noreferrer">Lost deals</a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Lost%20deals" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
-  <tr>
+<!--   <tr>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">Count the total number of registered Sales agent in all our global branches without repeating them.</td>
     <td class="tg-0lax"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Registered%20Sales%20Agents" target="_blank" rel="noopener noreferrer">Registered sales agents</a></td>
@@ -81,7 +81,7 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
     <td class="tg-0lax">9</td>
     <td class="tg-0lax">Help us know the total count of the deals which were succesiful over the two business years </td>
     <td class="tg-0lax"><a href="https://github.com/nich02/Enalyzing-CRM-Database-with-SQL-/blob/main/QueryAnswers/Count%20of%20successiful%20deals" target="_blank" rel="noopener noreferrer">Count of succesiful sales</a> </td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
