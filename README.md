@@ -1,19 +1,30 @@
 ### Hi there 👋
 
 ### About GEEDevsNairobi Community 
-GEE Nairobi is a Unit/Track of <a href="https://gdg.community.dev/gdg-nairobi/">GDG Nairobi</a> dedicated to eradicating poverty, enhancing socioeconomic and environmental biodiversity by use of Google Technologies. The community mission is ensuring inclusion of marginalized groups (youth) in critical issues of on Environment, Climate, thus fostering Gender and Social Inclusion.
-Community members freely learn, share knowledge, and develop innovative tech solutions for sustainability. 
-Members share technical expertise amongst themselves to enhance development effectiveness and encourage innovative application of cutting-edge to tackle most complex development challenges while fostering inclusive and sustainable transformation. 
-The community use Google Earth Engine, Google Earth, Google Maps, Remote Sensing tools and other Earth Observation technologies. 
+Digital Innovative Projects for a Healthy and Sustainable Planet 
 
-It does so by investing in youth and other change makers. It consists of a team of innovative change-makers learning and developing environmentally suitable products collaboratively. They leverage Remote Sensing techniques, and Earth Observation technologies to make a significant contribution to climate change and environmental sustainability. The community is actively learning, and collaborating with various industry experts like developers, climate scientists, industry experts, and local communities to spur impact at a wider scale. Our openness to collaboration solidifies our mission to create a more sustainable future for our planet and its people.
-We invite experts to share knowledge with our community, experiences, and opportunities in Earth Observation technologies. We get to share the news from of Google Earth announced in GEE summits. Our developer community culture is defined by openness, mutual support and enjoyment to work for social impact while sharing success. This way, we have developed our skills to deliver continuously and exceedingly quality, impactful and sustainable projects to our communities.  
+GEE Nairobi is a Unit/Track of GDG Nairobi dedicated to using Earth Observation technologies for creating digital solutions for climate and environment innovations. The community focus on offering hands-on technical skills through workshops, delivering expert-led sessions, open fireside chats, and collaborative project implementation sessions generously to everyone on the planet Earth. 
+The community use Google Earth Engine, Google Earth, Google Maps, Remote Sensing tools and other Earth Observation technologies.
+
+The community is actively learning, and collaborating with various industry experts like developers, climate scientists, industry experts, and local communities to spur impact at a wider scale. Our openness to collaboration solidifies our mission to create a more sustainable future for our planet and its people. 
+Our developer community culture is defined by openness, mutual support and enjoyment to work for social impact while sharing success. This way, we have developed our skills to deliver continuously and exceedingly quality, impactful and sustainable projects to our communities.
 
 We achieve our mission by organizing and participating in events like;
-1. GEE Training and Workshops  
-2. Expert Speaker sessions 
-3. Hacking Days
-4. GEE User Summits
+1. GEE Training and Workshops
+2. Expert Guest Speaker sessions
+3. Fireside Expert chats 
+4. Project Hacking Days
+5. GEE User Summits
+
+Our Training sessions, Completed projects, Expert Speaker Sessions are shared publicly on our digital channels:
+
+Some of the projects we work on;
+1. Solutions for climate change and environmental protection
+2. Responsible and consumption and waste management
+3. Creating liveable and resilient communities
+4. Natural resources conservation 
+5. Help protect the environment 
+6. Water management
 
 Our Training sessions, Completed projects, Expert Speaker Sessions are shared publicly on our digital channels:
 1. <a href="https://github.com/geedevsnairobi">GitHub</a> 
@@ -22,8 +33,6 @@ Our Training sessions, Completed projects, Expert Speaker Sessions are shared pu
 4. <a href="https://www.linkedin.com/company/gee-developers-nairobi/?viewAsMember=true">LinkedIn</a>
 5. <a href="https://twitter.com/GeeDevs">Twitter</a>
 6. <a href="https://groups.google.com/g/geedevelopersnairobi">Google group </a>
-
-
 
 ### GEE Developer Group Community Learning Projects  
 
